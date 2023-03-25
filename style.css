@@ -4,6 +4,10 @@
   text-decoration: none;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 span {
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
